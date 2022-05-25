@@ -5,6 +5,7 @@
 }
 :root {
     --nav-color:#183C69;
+    --default-color:#dedede;
 }
 
 .bg-light {
@@ -29,4 +30,15 @@
     color: #fff;
     margin-top: 5px;
     
+}
+
+.navbar-brand {
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+#reg-team {
+    text-decoration: none;
+    list-style: none;
+    color: var(--default-color);
 }
