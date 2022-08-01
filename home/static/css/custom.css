@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 :root {
-    --nav-color:#183C69;
+    --pri-color:#4F46E5;
 }
 
 .bg-light {
-    background-color: var(--nav-color) !important;
+    background-color: var(--pri-color) !important;
 }
 
 .navbar-nav {
